@@ -1,0 +1,23 @@
+{
+  "name": "understandingtypescript",
+  "version": "1.0.0",
+  "description": "Course work for Udemy Understanding TypeScript course (https://www.udemy.com/course/understanding-typescript/)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atciiiatx/UdemyUnderstandingTypeScript.git"
+  },
+  "author": "A. T. Campbell, III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atciiiatx/UdemyUnderstandingTypeScript/issues"
+  },
+  "homepage": "https://github.com/atciiiatx/UdemyUnderstandingTypeScript#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
