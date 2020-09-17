@@ -23,5 +23,7 @@
     "prettier": "^2.0.5",
     "tslint": "^6.1.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
 }
